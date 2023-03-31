@@ -296,7 +296,8 @@ b {
         border-color: #959595;
     }
     .join__btn {
-        background-color: #025fca;
+        /*background-color: #025fca;*/
+        background-color: #51A6AF;
         color: #fff;
 
         border: none;
@@ -336,8 +337,8 @@ b {
  * USERS
  */
 .users {
-    width: 25%;
-    float: left;
+    /* width: 25%;
+    float: left; */
 }
 
 .users__title {
@@ -474,22 +475,23 @@ b {
 
 .board {
     position: relative;
-    width: 75%;
+    /* width: 75%;
     min-height: 660px;
-    float: right;
-    padding: 0 0 0 14px;
+    float: right; */
+    /* padding: 0 0 0 14px; */
     box-sizing: border-box;
 }
 
 .frames {
-    padding: 0 150px 0 0;
+    /* padding: 0 150px 0 0; */
+    padding: 0 0px 0 0;
 }
 
 .caller {
-    position: absolute;
+    /* position: absolute;
     right: 0;
     top: 0;
-    width: 135px;
+    width: 135px; */
 }
 
 .caller__ctrl{
